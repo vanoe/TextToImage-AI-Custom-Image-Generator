@@ -14,7 +14,7 @@ Whether you're creating **educational materials 📚**, **digital content 💻**
 
 ## 📌 Scheme
 
-*(Insert your diagram or flow illustration here 🗂️)*
+<img src="./img/img-1.png" alt="Scheme">
 
 ---
 
@@ -33,10 +33,15 @@ Whether you're creating **educational materials 📚**, **digital content 💻**
 
 **Prompts and Results:**
 - 📦 *photo of a container*
+   <img src="./img/img-2.jpg" alt="image">
 - 🚢 *photo of a sks container*
+  <img src="./img/img-3.jpg" alt="image">
 - 🌙 *photo of a sks container on the moon*
+   <img src="./img/img-4.jpg" alt="image">
 - 🏖️ *photo of a sks container on the beach*
+   <img src="./img/img-5.jpg" alt="image">
 - 🐶 *photo of a dog on the top of a sks container*
+   <img src="./img/img-6.jpg" alt="image">
 
 
 ---
