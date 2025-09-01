@@ -47,10 +47,11 @@ Whether you're creating **educational materials 📚**, **digital content 💻**
 ---
 
 ## 📖 Full Description
-
+<details>
+<summary>
 In **AI engineering 🚀**, developing **text-to-image systems** is both challenging and exciting.  
 This project delivers a solution that can **translate text into visual representations**, enabling educators and creators to quickly generate **custom, accurate, and engaging images**.
-
+</summary>
 ---
 
 ## ❌ Problem
@@ -131,4 +132,4 @@ We built an **AI-driven framework 🤖** to automatically generate images from t
 4. 🛠️ Salimans, T., Goodfellow, I., Zaremba, W., Cheung, V., Radford, A., & Chen, X. (2016). [Improved Techniques for Training GANs](https://arxiv.org/abs/1606.03498)
 5. 🧠 Karras, T., Aila, T., Laine, S., & Lehtinen, J. (2019). [Analyzing & Improving StyleGAN](https://arxiv.org/abs/1912.04958)
 
----
+</details>
