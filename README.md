@@ -54,6 +54,7 @@ In **AI engineering 🚀**, developing **text-to-image systems** is both challen
 This project delivers a solution that can **translate text into visual representations**, enabling educators and creators to quickly generate **custom, accurate, and engaging images**.
 
 </summary>
+
 ---
 
 ## ❌ Problem
