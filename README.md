@@ -48,7 +48,7 @@ Whether you're creating **educational materials 📚**, **digital content 💻**
 
 ## 📖 Full Description
 <details>
-<summary>
+<summary>📖 Click to expand the Description
 
 In **AI engineering 🚀**, developing **text-to-image systems** is both challenging and exciting.  
 This project delivers a solution that can **translate text into visual representations**, enabling educators and creators to quickly generate **custom, accurate, and engaging images**.
